@@ -1,4 +1,4 @@
-# college_mips_course
+# MIPS-U_of_SC_2015-2016
 
 I took this class in my sophomore year at the University of South Carolina. This is the code I had to write.
 
